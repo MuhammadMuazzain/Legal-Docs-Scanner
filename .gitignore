@@ -561,3 +561,7 @@ processed-contracts/
 lighthouse-report.html
 
 # End of .gitignore
+
+# Legacy docs (do not publish)
+docs/LawBotics*.pdf
+

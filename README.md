@@ -8,6 +8,12 @@ Portfolio project by **Muhammad Muazzain** — originally delivered as a private
 [![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Python%20%7C%20NLP-111827)](#technology-stack)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
+## Interface preview
+
+![Legal Docs Scanner analysis interface — plain-English summary, clause risk flags, and extracted key fields](./docs/legal-docs-scanner-ui.png)
+
+*Concept UI showing the analysis results view: document upload context, plain-English summary, clause-level risk flags, and key extracted fields.*
+
 ---
 
 ## Overview
